@@ -1,0 +1,110 @@
+{
+  "asset": "^GSPC",
+  "regime_series": {
+    "end_date": "2025-01-05",
+    "n_days": 5,
+    "regime_counts": {
+      "Core Stress": 2,
+      "Extreme": 1,
+      "Pre-Stress": 1,
+      "Stable": 1
+    },
+    "regime_percentages": {
+      "Core Stress": 40.0,
+      "Extreme": 20.0,
+      "Pre-Stress": 20.0,
+      "Stable": 20.0
+    },
+    "start_date": "2025-01-01"
+  },
+  "run_id": "2025-12-13_202058",
+  "windows": {
+    "counts_by_regime": {
+      "Core Stress": 1,
+      "Extreme": 1,
+      "Pre-Stress": 2,
+      "Stable": 2
+    },
+    "duration_summary_by_regime": {
+      "Core Stress": {
+        "max": 3.0,
+        "median": 3.0,
+        "min": 3.0
+      },
+      "Extreme": {
+        "max": 5.0,
+        "median": 5.0,
+        "min": 5.0
+      },
+      "Pre-Stress": {
+        "max": 19.0,
+        "median": 14.0,
+        "min": 9.0
+      },
+      "Stable": {
+        "max": 11.0,
+        "median": 8.0,
+        "min": 5.0
+      }
+    },
+    "score_max_summary_by_regime": {
+      "Core Stress": {
+        "max": 0.35,
+        "median": 0.35,
+        "min": 0.35
+      },
+      "Extreme": {
+        "max": 0.5,
+        "median": 0.5,
+        "min": 0.5
+      },
+      "Pre-Stress": {
+        "max": 0.22,
+        "median": 0.21000000000000002,
+        "min": 0.2
+      },
+      "Stable": {
+        "max": 0.25,
+        "median": 0.215,
+        "min": 0.18
+      }
+    },
+    "top_windows_by_score_max": [
+      {
+        "end_date": "2025-01-08",
+        "peak_date": "2025-01-06",
+        "regime": "Extreme",
+        "score_max": 0.5,
+        "start_date": "2025-01-04"
+      },
+      {
+        "end_date": "2025-01-04",
+        "peak_date": "2025-01-03",
+        "regime": "Core Stress",
+        "score_max": 0.35,
+        "start_date": "2025-01-02"
+      },
+      {
+        "end_date": "2024-12-10",
+        "peak_date": "2024-12-05",
+        "regime": "Stable",
+        "score_max": 0.25,
+        "start_date": "2024-11-30"
+      },
+      {
+        "end_date": "2025-01-20",
+        "peak_date": "2025-01-15",
+        "regime": "Pre-Stress",
+        "score_max": 0.22,
+        "start_date": "2025-01-12"
+      },
+      {
+        "end_date": "2025-01-02",
+        "peak_date": "2024-12-28",
+        "regime": "Pre-Stress",
+        "score_max": 0.2,
+        "start_date": "2024-12-15"
+      }
+    ]
+  }
+}

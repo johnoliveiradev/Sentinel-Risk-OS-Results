@@ -1,0 +1,6 @@
+# Generated visualization artifacts (binary outputs)
+runs/**/figures/*.png
+
+# Python cache
+__pycache__/
+repro/__pycache__/

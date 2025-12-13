@@ -1,0 +1,6 @@
+date,regime,score
+2025-01-01,Stable,0.10
+2025-01-02,Pre-Stress,0.15
+2025-01-03,Core Stress,0.05
+2025-01-04,Core Stress,0.08
+2025-01-05,Extreme,0.12
