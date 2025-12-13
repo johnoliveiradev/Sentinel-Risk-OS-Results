@@ -14,7 +14,7 @@ Public, results-only repository publishing Sentinel Risk OS outputs for transpar
 - Any unknown regime labels are surfaced transparently in counts/percentages.
 
 ## How to view the report
-- Latest HTML report: [``](runs/single/).
+- Latest HTML report: [`Runs`](runs/single/).
 - GitHub Pages can serve from the `docs/` folder; configure Pages to point to `docs` and the report will be available at `/assets/reports/single/^GSPC/2025-12-13_202058/report.html`.
 
 ## Validate the published outputs
