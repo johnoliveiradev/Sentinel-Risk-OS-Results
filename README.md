@@ -1,32 +1,129 @@
-# Sentinel Risk OS Results
+Sentinel Risk OS — Published Results
 
-Public, results-only repository publishing Sentinel Risk OS outputs for transparency without exposing the proprietary engine. This repo contains static reports, CSV exports, derived metrics, and reproducibility helpers so others can verify what was observed from the blackbox engine. No engine code or private parameters are included.
+This repository publishes verified outputs from Sentinel Risk OS, a private structural risk detection engine.
 
-## What is here
-- Published HTML report and CSV exports for run `2025-12-13_202058` on asset `^GSPC`.
-- Derived run card (Markdown + JSON) summarizing the run.
-- Matplotlib figures regenerated from the CSVs only; to keep the repo free of binaries, figures are generated locally and gitignored.
-- Reproducibility scripts (`repro/verify_run.py`) to recompute metrics and charts from the published artifacts.
+The engine itself is intentionally not included.
 
-## Blackbox policy
-- No proprietary engine logic, intervals, or hidden parameters are present.
-- All metrics are recomputed solely from the exported CSVs.
-- Any unknown regime labels are surfaced transparently in counts/percentages.
+Only results, artifacts, and reproducible metrics are published here to enable independent inspection of observed behavior without exposing proprietary logic.
 
-## How to view the report
-- Latest HTML report: [`Runs`](runs/single/^GSPC/2025-12-13_202058/report.html).
-- GitHub Pages can serve from the `docs/` folder; configure Pages to point to `docs` and the report will be available at `/assets/reports/single/^GSPC/2025-12-13_202058/report.html`.
+Why This Matters
 
-## Validate the published outputs
-1. Install dependencies: `python -m pip install -r repro/environment.txt`.
-2. Run verification: `python repro/verify_run.py runs/single/^GSPC/2025-12-13_202058`.
-3. The script will regenerate `run_card.json`, `run_card.md`, and figures, failing fast if schemas differ from expectations.
+Most risk systems react after instability becomes obvious.
 
-## Repository layout
-- `docs/` — public documentation, including a copy of the HTML report for Pages.
-- `runs/` — published results organized by asset and run id.
-- `baselines/` — placeholder for future public baselines.
-- `repro/` — scripts used to validate and regenerate derived artifacts.
+Sentinel Risk OS focuses on early detection of structural regime transitions, providing visibility into stress accumulation before it manifests as full market dislocation.
 
-## License
-MIT License (see `LICENSE`).
+The value of this repository is not prediction accuracy, but observable structural behavior across time and assets.
+
+What Is Included
+
+This repository contains only public, non-proprietary artifacts:
+
+Static HTML reports for each published run
+
+CSV exports such as regime_series.csv and windows.csv
+
+Derived run summaries in run_card.md and run_card.json
+
+Figures regenerated exclusively from the published CSVs
+
+Reproducibility helpers to validate metrics and charts
+
+All derived artifacts can be recomputed using only the files published in this repository.
+
+What Is Not Included
+
+Sentinel Risk OS engine code
+
+Internal heuristics or parameters
+
+Interval boundaries, nonces, or optimization logic
+
+Trading strategies or predictive models
+
+This repository is results-only by design.
+
+Blackbox Policy
+
+No proprietary engine logic is present
+
+All metrics and figures are derived solely from the exported CSVs
+
+Unknown or new regime labels, if present, are surfaced transparently in counts and percentages
+
+The repository allows inspection of outputs and behavior, not internal mechanics
+
+How to Navigate the Results
+
+Results are organized by asset and run timestamp using the following structure:
+
+runs
+
+single
+
+ASSET
+
+RUN_ID
+
+Each run folder contains:
+
+report.html — full visual report
+
+regime_series.csv — daily regime classification
+
+windows.csv — aggregated stress windows
+
+run_card.md and run_card.json — summary and metadata
+
+figures/ — charts regenerated from CSVs
+
+How to View the Reports
+
+The latest published run for the S&P 500 (^GSPC) is located at:
+
+runs/single/^GSPC/2025-12-13_202058/report.html
+
+HTML reports are also served via GitHub Pages.
+
+When GitHub Pages is configured to use the docs/ folder, reports are available at paths like:
+
+/assets/reports/single/ASSET/RUN_ID/report.html
+
+Example:
+
+/assets/reports/single/^GSPC/2025-12-13_202058/report.html
+
+Validate the Published Outputs
+
+All derived artifacts can be regenerated locally from the published CSVs.
+
+Steps:
+
+Install dependencies using
+python -m pip install -r repro/environment.txt
+
+Run verification using
+python repro/verify_run.py runs/single/^GSPC/2025-12-13_202058
+
+The verification script recomputes summary metrics and figures and fails fast if schemas or results diverge from expectations.
+
+Repository Structure
+
+docs/ — public documentation and HTML reports for GitHub Pages
+
+runs/ — published results organized by asset and run id
+
+baselines/ — placeholder for future public baselines
+
+repro/ — scripts used to validate and regenerate derived artifacts
+
+Research Philosophy
+
+Sentinel Risk OS follows a results-first publication model.
+
+Evidence precedes explanation.
+
+If the outputs demonstrate consistent structural behavior, further discussion becomes meaningful.
+
+License
+
+MIT License (see LICENSE).
