@@ -16,19 +16,17 @@ The value of this repository is not prediction accuracy, but observable structur
 
 What Is Included
 
-This repository contains only public, non-proprietary artifacts:
-
 Static HTML reports for each published run
 
-CSV exports such as regime_series.csv and windows.csv
+CSV exports: regime_series.csv, windows.csv
 
-Derived run summaries in run_card.md and run_card.json
+Derived run summaries: run_card.md, run_card.json
 
-Figures regenerated exclusively from the published CSVs
+Figures regenerated from the published CSVs
 
 Reproducibility helpers to validate metrics and charts
 
-All derived artifacts can be recomputed using only the files published in this repository.
+All derived artifacts can be recomputed using only files published in this repository.
 
 What Is Not Included
 
@@ -48,21 +46,19 @@ No proprietary engine logic is present
 
 All metrics and figures are derived solely from the exported CSVs
 
-Unknown or new regime labels, if present, are surfaced transparently in counts and percentages
+Unknown or new regime labels are surfaced transparently in counts and percentages
 
-The repository allows inspection of outputs and behavior, not internal mechanics
+The repository enables inspection of outputs and behavior, not internal mechanics
 
 How to Navigate the Results
 
-Results are organized by asset and run timestamp using the following structure:
+Results are organized by asset and run timestamp:
 
-runs
+runs/
+  single/
+    {ASSET}/
+      {RUN_ID}/
 
-single
-
-ASSET
-
-RUN_ID
 
 Each run folder contains:
 
@@ -72,21 +68,20 @@ regime_series.csv — daily regime classification
 
 windows.csv — aggregated stress windows
 
-run_card.md and run_card.json — summary and metadata
+run_card.md / run_card.json — summary and metadata
 
 figures/ — charts regenerated from CSVs
 
 How to View the Reports
 
-The latest published run for the S&P 500 (^GSPC) is located at:
+Latest published run for ^GSPC:
 
 runs/single/^GSPC/2025-12-13_202058/report.html
 
-HTML reports are also served via GitHub Pages.
+GitHub Pages (when configured to use the docs/ folder) serves reports under:
 
-When GitHub Pages is configured to use the docs/ folder, reports are available at paths like:
+/assets/reports/single/{ASSET}/{RUN_ID}/report.html
 
-/assets/reports/single/ASSET/RUN_ID/report.html
 
 Example:
 
@@ -94,17 +89,15 @@ Example:
 
 Validate the Published Outputs
 
-All derived artifacts can be regenerated locally from the published CSVs.
+Install dependencies:
 
-Steps:
-
-Install dependencies using
 python -m pip install -r repro/environment.txt
 
-Run verification using
+Run verification:
+
 python repro/verify_run.py runs/single/^GSPC/2025-12-13_202058
 
-The verification script recomputes summary metrics and figures and fails fast if schemas or results diverge from expectations.
+The script recomputes summary metrics and figures and fails fast if schemas or results diverge from expectations.
 
 Repository Structure
 
