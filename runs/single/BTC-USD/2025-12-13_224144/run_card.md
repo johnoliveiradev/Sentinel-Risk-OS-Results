@@ -33,3 +33,63 @@
 - code_version: None
 - environment: 3.13.5
 - machine: Windows-10-10.0.19045-SP0
+
+## Alignment Notes — BTC (Nov–Dec 2025)
+
+### Market Context  
+**Period:** November 14 → December 8, 2025
+
+During the analyzed window, Bitcoin operated under a **corrective and highly volatile regime**, following an extended period of elevated price levels earlier in 2025.
+
+The period was characterized by:
+
+- Sustained downside pressure  
+- Elevated volatility  
+- Loss of key support levels  
+- Increased dispersion between short-term recoveries and broader trend weakness  
+
+Rather than a single abrupt shock, the behavior reflects a **prolonged corrective phase**, with structural instability persisting across multiple weeks.
+
+---
+
+### Interpretation of the Core Stress Window
+
+The Sentinel Risk OS identified a **Core Stress** window during this period, with:
+
+- **Score max:** 4.20  
+- **Peak date:** November 21, 2025  
+
+Within the Sentinel framework, *Core Stress* represents a phase of **sustained structural stress**, where volatility, directional pressure, and regime persistence reinforce each other over time.
+
+The peak on November 21 marks the point of **maximum structural compression** within the window — not necessarily a single market event, but the moment where cumulative stress factors reached their highest intensity.
+
+---
+
+### Structural Price Behavior
+
+This Core Stress window coincides with:
+
+- Accelerated downside movements  
+- Repeated tests and breaks of intermediate support zones  
+- Compression of the trading range at lower price levels  
+- Absence of a rapid return to a stable regime  
+
+These characteristics are consistent with a market undergoing **systematic deleveraging and risk reassessment**, rather than transient price noise.
+
+---
+
+### Post-Window Regime Transition
+
+Following the end of the Core Stress window, the Sentinel output indicates a **transition toward lower-intensity regimes**, suggesting that while the most acute stress subsided, structural stability was **not immediately restored**.
+
+This transition reflects a shift from acute stress to a **consolidation phase**, rather than a full regime normalization.
+
+---
+
+### Summary
+
+The BTC Core Stress window observed between mid-November and early December 2025 represents a **structurally coherent corrective episode**, marked by persistent instability and elevated stress intensity.
+
+The Sentinel Risk OS captured this episode as a **continuous stress event**, rather than a collection of isolated price moves, reinforcing its role as a **regime-level risk detection system**, not a short-term signal generator.
+
+
