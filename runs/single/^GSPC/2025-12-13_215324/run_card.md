@@ -32,3 +32,21 @@
 ## Metadata
 - start_date: None
 - end_date: None
+
+## Alignment with Observed Market Conditions (Dec 2025)
+
+The Sentinel Risk OS output for ^GSPC remains in the **Attention** regime as of
+December 12, 2025, which is structurally consistent with the observed market
+environment at that time.
+
+Despite the index trading near historical highs, the period was characterized by
+heightened daily volatility, sharp reversals, and persistent uncertainty around
+technology earnings and monetary policy expectations.
+
+Within the Sentinel framework, the Attention regime reflects **persistent structural
+instability without escalation into high-intensity stress**, rather than short-term
+noise or isolated shocks.
+
+The dominance of the Attention regime over the analyzed period (53.0% of days),
+combined with multiple Pre-Stress and Core Stress windows, supports an interpretation
+of prolonged structural tension rather than episodic risk events.
