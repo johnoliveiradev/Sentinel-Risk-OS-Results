@@ -4,11 +4,9 @@
 
 Most risk systems react late.
 
-They rely on probabilistic assumptions, historical correlations, or model fitting
-that perform well in stable conditions but degrade precisely when structural stress
-emerges.
+They rely on probabilistic assumptions, historical correlations, or model fitting that perform well in stable conditions but degrade precisely when structural stress emerges.
 
-In practice, markets do not fail randomly.
+In practice, markets do not fail randomly.  
 They transition through regimes.
 
 What matters is not prediction accuracy, but **early detection of structural change**.
@@ -17,8 +15,7 @@ What matters is not prediction accuracy, but **early detection of structural cha
 
 ## What Sentinel Risk OS Does
 
-Sentinel Risk OS is a private, deterministic risk engine designed to identify
-**structural regime transitions and stress accumulation** in time-series systems.
+Sentinel Risk OS is a private, deterministic risk engine designed to identify **structural regime transitions and stress accumulation** in time-series systems.
 
 This repository publishes verified outputs from that engine.
 
@@ -70,7 +67,7 @@ The objective is to allow independent inspection of:
 
 Without requiring access to proprietary internals.
 
-This mirrors how advanced research systems are validated in practice:
+This mirrors how advanced research systems are validated in practice:  
 **evidence before explanation**.
 
 ---
