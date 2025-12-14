@@ -29,7 +29,7 @@ of observed behavior without exposing proprietary internals.
 
 - **Bitcoin (BTC-USD)**  
   Run ID: `2025-12-13_224144`  
-  → [View report](assets/reports/single/BTC-USD/2025-12-13_224144/report.html)
+  → [View report](assets/reports/single/BTC-USD/2025-12-13/report.html)
 
 ---
 
