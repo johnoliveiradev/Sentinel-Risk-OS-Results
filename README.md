@@ -91,13 +91,11 @@ HTML reports are also served via GitHub Pages.
 
 When Pages is configured to use the docs/ folder, reports are available at:
 
-text
-Copiar código
+
 /assets/reports/single/ASSET/RUN_ID/report.html
 Example:
 
-text
-Copiar código
+
 /assets/reports/single/^GSPC/2025-12-13_202058/report.html
 Validate the Published Outputs
 All derived artifacts can be regenerated locally from the published CSVs.
@@ -108,7 +106,7 @@ Copiar código
 python -m pip install -r repro/environment.txt
 Run verification
 bash
-Copiar código
+
 python repro/verify_run.py runs/single/^GSPC/2025-12-13_202058
 The script recomputes summary metrics and figures and fails fast if schemas
 or results diverge from expectations.
