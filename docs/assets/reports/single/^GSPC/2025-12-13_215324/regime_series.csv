@@ -1,0 +1,635 @@
+Date,Regime
+2023-06-06,Stable
+2023-06-07,Stable
+2023-06-08,Stable
+2023-06-09,Stable
+2023-06-12,Stable
+2023-06-13,Stable
+2023-06-14,Stable
+2023-06-15,Stable
+2023-06-16,Stable
+2023-06-20,Stable
+2023-06-21,Stable
+2023-06-22,Stable
+2023-06-23,Stable
+2023-06-26,Stable
+2023-06-27,Stable
+2023-06-28,Stable
+2023-06-29,Stable
+2023-06-30,Stable
+2023-07-03,Stable
+2023-07-05,Stable
+2023-07-06,Stable
+2023-07-07,Stable
+2023-07-10,Stable
+2023-07-11,Stable
+2023-07-12,Stable
+2023-07-13,Stable
+2023-07-14,Stable
+2023-07-17,Stable
+2023-07-18,Stable
+2023-07-19,Stable
+2023-07-20,Stable
+2023-07-21,Stable
+2023-07-24,Stable
+2023-07-25,Stable
+2023-07-26,Stable
+2023-07-27,Stable
+2023-07-28,Stable
+2023-07-31,Stable
+2023-08-01,Stable
+2023-08-02,Stable
+2023-08-03,Stable
+2023-08-04,Stable
+2023-08-07,Stable
+2023-08-08,Stable
+2023-08-09,Stable
+2023-08-10,Stable
+2023-08-11,Stable
+2023-08-14,Stable
+2023-08-15,Stable
+2023-08-16,Stable
+2023-08-17,Stable
+2023-08-18,Stable
+2023-08-21,Stable
+2023-08-22,Stable
+2023-08-23,Stable
+2023-08-24,Stable
+2023-08-25,Stable
+2023-08-28,Stable
+2023-08-29,Stable
+2023-08-30,Attention
+2023-08-31,Attention
+2023-09-01,Attention
+2023-09-05,Attention
+2023-09-06,Attention
+2023-09-07,Attention
+2023-09-08,Attention
+2023-09-11,Attention
+2023-09-12,Attention
+2023-09-13,Attention
+2023-09-14,Stable
+2023-09-15,Attention
+2023-09-18,Attention
+2023-09-19,Attention
+2023-09-20,Attention
+2023-09-21,Attention
+2023-09-22,Attention
+2023-09-25,Attention
+2023-09-26,Attention
+2023-09-27,Attention
+2023-09-28,Attention
+2023-09-29,Attention
+2023-10-02,Attention
+2023-10-03,Attention
+2023-10-04,Attention
+2023-10-05,Attention
+2023-10-06,Attention
+2023-10-09,Attention
+2023-10-10,Attention
+2023-10-11,Attention
+2023-10-12,Attention
+2023-10-13,Attention
+2023-10-16,Attention
+2023-10-17,Attention
+2023-10-18,Attention
+2023-10-19,Attention
+2023-10-20,Attention
+2023-10-23,Attention
+2023-10-24,Attention
+2023-10-25,Attention
+2023-10-26,Attention
+2023-10-27,Attention
+2023-10-30,Elevated Risk
+2023-10-31,Attention
+2023-11-01,Attention
+2023-11-02,Elevated Risk
+2023-11-03,Attention
+2023-11-06,Attention
+2023-11-07,Attention
+2023-11-08,Attention
+2023-11-09,Attention
+2023-11-10,Elevated Risk
+2023-11-13,Attention
+2023-11-14,Elevated Risk
+2023-11-15,Elevated Risk
+2023-11-16,Attention
+2023-11-17,Attention
+2023-11-20,Attention
+2023-11-21,Attention
+2023-11-22,Attention
+2023-11-24,Attention
+2023-11-27,Attention
+2023-11-28,Attention
+2023-11-29,Attention
+2023-11-30,Attention
+2023-12-01,Attention
+2023-12-04,Attention
+2023-12-05,Attention
+2023-12-06,Attention
+2023-12-07,Attention
+2023-12-08,Attention
+2023-12-11,Attention
+2023-12-12,Attention
+2023-12-13,Attention
+2023-12-14,Attention
+2023-12-15,Stable
+2023-12-18,Stable
+2023-12-19,Stable
+2023-12-20,Attention
+2023-12-21,Attention
+2023-12-22,Attention
+2023-12-26,Stable
+2023-12-27,Stable
+2023-12-28,Stable
+2023-12-29,Stable
+2024-01-02,Attention
+2024-01-03,Attention
+2024-01-04,Attention
+2024-01-05,Attention
+2024-01-08,Attention
+2024-01-09,Attention
+2024-01-10,Stable
+2024-01-11,Stable
+2024-01-12,Stable
+2024-01-16,Attention
+2024-01-17,Attention
+2024-01-18,Stable
+2024-01-19,Stable
+2024-01-22,Stable
+2024-01-23,Stable
+2024-01-24,Stable
+2024-01-25,Stable
+2024-01-26,Stable
+2024-01-29,Stable
+2024-01-30,Stable
+2024-01-31,Attention
+2024-02-01,Stable
+2024-02-02,Stable
+2024-02-05,Attention
+2024-02-06,Stable
+2024-02-07,Stable
+2024-02-08,Stable
+2024-02-09,Stable
+2024-02-12,Stable
+2024-02-13,Attention
+2024-02-14,Attention
+2024-02-15,Attention
+2024-02-16,Attention
+2024-02-20,Attention
+2024-02-21,Attention
+2024-02-22,Attention
+2024-02-23,Attention
+2024-02-26,Attention
+2024-02-27,Attention
+2024-02-28,Attention
+2024-02-29,Attention
+2024-03-01,Stable
+2024-03-04,Stable
+2024-03-05,Attention
+2024-03-06,Attention
+2024-03-07,Attention
+2024-03-08,Attention
+2024-03-11,Attention
+2024-03-12,Attention
+2024-03-13,Attention
+2024-03-14,Attention
+2024-03-15,Attention
+2024-03-18,Attention
+2024-03-19,Stable
+2024-03-20,Stable
+2024-03-21,Stable
+2024-03-22,Stable
+2024-03-25,Stable
+2024-03-26,Attention
+2024-03-27,Stable
+2024-03-28,Stable
+2024-04-01,Stable
+2024-04-02,Attention
+2024-04-03,Attention
+2024-04-04,Attention
+2024-04-05,Attention
+2024-04-08,Attention
+2024-04-09,Attention
+2024-04-10,Attention
+2024-04-11,Attention
+2024-04-12,Attention
+2024-04-15,Attention
+2024-04-16,Attention
+2024-04-17,Attention
+2024-04-18,Attention
+2024-04-19,Attention
+2024-04-22,Attention
+2024-04-23,Attention
+2024-04-24,Attention
+2024-04-25,Attention
+2024-04-26,Attention
+2024-04-29,Attention
+2024-04-30,Attention
+2024-05-01,Attention
+2024-05-02,Attention
+2024-05-03,Attention
+2024-05-06,Attention
+2024-05-07,Attention
+2024-05-08,Attention
+2024-05-09,Attention
+2024-05-10,Attention
+2024-05-13,Attention
+2024-05-14,Attention
+2024-05-15,Attention
+2024-05-16,Attention
+2024-05-17,Stable
+2024-05-20,Stable
+2024-05-21,Stable
+2024-05-22,Stable
+2024-05-23,Attention
+2024-05-24,Stable
+2024-05-28,Stable
+2024-05-29,Attention
+2024-05-30,Attention
+2024-05-31,Attention
+2024-06-03,Attention
+2024-06-04,Attention
+2024-06-05,Stable
+2024-06-06,Stable
+2024-06-07,Stable
+2024-06-10,Stable
+2024-06-11,Stable
+2024-06-12,Stable
+2024-06-13,Stable
+2024-06-14,Stable
+2024-06-17,Stable
+2024-06-18,Stable
+2024-06-20,Stable
+2024-06-21,Stable
+2024-06-24,Attention
+2024-06-25,Stable
+2024-06-26,Stable
+2024-06-27,Stable
+2024-06-28,Stable
+2024-07-01,Stable
+2024-07-02,Stable
+2024-07-03,Stable
+2024-07-05,Stable
+2024-07-08,Stable
+2024-07-09,Stable
+2024-07-10,Stable
+2024-07-11,Attention
+2024-07-12,Stable
+2024-07-15,Stable
+2024-07-16,Stable
+2024-07-17,Attention
+2024-07-18,Attention
+2024-07-19,Attention
+2024-07-22,Attention
+2024-07-23,Attention
+2024-07-24,Attention
+2024-07-25,Attention
+2024-07-26,Attention
+2024-07-29,Attention
+2024-07-30,Attention
+2024-07-31,Attention
+2024-08-01,Attention
+2024-08-02,Elevated Risk
+2024-08-05,Elevated Risk
+2024-08-06,Elevated Risk
+2024-08-07,Elevated Risk
+2024-08-08,Elevated Risk
+2024-08-09,Elevated Risk
+2024-08-12,Elevated Risk
+2024-08-13,Elevated Risk
+2024-08-14,Elevated Risk
+2024-08-15,Elevated Risk
+2024-08-16,Elevated Risk
+2024-08-19,Elevated Risk
+2024-08-20,Elevated Risk
+2024-08-21,Elevated Risk
+2024-08-22,Elevated Risk
+2024-08-23,Elevated Risk
+2024-08-26,Elevated Risk
+2024-08-27,Elevated Risk
+2024-08-28,Elevated Risk
+2024-08-29,Elevated Risk
+2024-08-30,Elevated Risk
+2024-09-03,Elevated Risk
+2024-09-04,Elevated Risk
+2024-09-05,Elevated Risk
+2024-09-06,Elevated Risk
+2024-09-09,Elevated Risk
+2024-09-10,Elevated Risk
+2024-09-11,Elevated Risk
+2024-09-12,Elevated Risk
+2024-09-13,Elevated Risk
+2024-09-16,Elevated Risk
+2024-09-17,Elevated Risk
+2024-09-18,Elevated Risk
+2024-09-19,Elevated Risk
+2024-09-20,Elevated Risk
+2024-09-23,Elevated Risk
+2024-09-24,Elevated Risk
+2024-09-25,Elevated Risk
+2024-09-26,Elevated Risk
+2024-09-27,Elevated Risk
+2024-09-30,Elevated Risk
+2024-10-01,Attention
+2024-10-02,Attention
+2024-10-03,Attention
+2024-10-04,Attention
+2024-10-07,Attention
+2024-10-08,Attention
+2024-10-09,Attention
+2024-10-10,Attention
+2024-10-11,Attention
+2024-10-14,Attention
+2024-10-15,Attention
+2024-10-16,Attention
+2024-10-17,Attention
+2024-10-18,Attention
+2024-10-21,Attention
+2024-10-22,Attention
+2024-10-23,Attention
+2024-10-24,Attention
+2024-10-25,Attention
+2024-10-28,Attention
+2024-10-29,Attention
+2024-10-30,Attention
+2024-10-31,Attention
+2024-11-01,Attention
+2024-11-04,Attention
+2024-11-05,Attention
+2024-11-06,Attention
+2024-11-07,Attention
+2024-11-08,Attention
+2024-11-11,Attention
+2024-11-12,Attention
+2024-11-13,Attention
+2024-11-14,Attention
+2024-11-15,Attention
+2024-11-18,Attention
+2024-11-19,Attention
+2024-11-20,Attention
+2024-11-21,Attention
+2024-11-22,Attention
+2024-11-25,Attention
+2024-11-26,Attention
+2024-11-27,Attention
+2024-11-29,Attention
+2024-12-02,Attention
+2024-12-03,Attention
+2024-12-04,Stable
+2024-12-05,Stable
+2024-12-06,Stable
+2024-12-09,Attention
+2024-12-10,Attention
+2024-12-11,Stable
+2024-12-12,Attention
+2024-12-13,Attention
+2024-12-16,Stable
+2024-12-17,Attention
+2024-12-18,Attention
+2024-12-19,Attention
+2024-12-20,Attention
+2024-12-23,Attention
+2024-12-24,Attention
+2024-12-26,Attention
+2024-12-27,Attention
+2024-12-30,Attention
+2024-12-31,Attention
+2025-01-02,Attention
+2025-01-03,Attention
+2025-01-06,Attention
+2025-01-07,Attention
+2025-01-08,Attention
+2025-01-10,Attention
+2025-01-13,Attention
+2025-01-14,Attention
+2025-01-15,Attention
+2025-01-16,Attention
+2025-01-17,Attention
+2025-01-21,Attention
+2025-01-22,Attention
+2025-01-23,Attention
+2025-01-24,Attention
+2025-01-27,Attention
+2025-01-28,Attention
+2025-01-29,Attention
+2025-01-30,Attention
+2025-01-31,Attention
+2025-02-03,Attention
+2025-02-04,Attention
+2025-02-05,Attention
+2025-02-06,Attention
+2025-02-07,Attention
+2025-02-10,Attention
+2025-02-11,Attention
+2025-02-12,Attention
+2025-02-13,Attention
+2025-02-14,Attention
+2025-02-18,Attention
+2025-02-19,Attention
+2025-02-20,Attention
+2025-02-21,Attention
+2025-02-24,Attention
+2025-02-25,Attention
+2025-02-26,Attention
+2025-02-27,Attention
+2025-02-28,Attention
+2025-03-03,Attention
+2025-03-04,Attention
+2025-03-05,Attention
+2025-03-06,Elevated Risk
+2025-03-07,Elevated Risk
+2025-03-10,Elevated Risk
+2025-03-11,Elevated Risk
+2025-03-12,Elevated Risk
+2025-03-13,Elevated Risk
+2025-03-14,Elevated Risk
+2025-03-17,Elevated Risk
+2025-03-18,Elevated Risk
+2025-03-19,Elevated Risk
+2025-03-20,Elevated Risk
+2025-03-21,Elevated Risk
+2025-03-24,Elevated Risk
+2025-03-25,Elevated Risk
+2025-03-26,Elevated Risk
+2025-03-27,Elevated Risk
+2025-03-28,Elevated Risk
+2025-03-31,Elevated Risk
+2025-04-01,Elevated Risk
+2025-04-02,Elevated Risk
+2025-04-03,Elevated Risk
+2025-04-04,Elevated Risk
+2025-04-07,Elevated Risk
+2025-04-08,Elevated Risk
+2025-04-09,Elevated Risk
+2025-04-10,Elevated Risk
+2025-04-11,Elevated Risk
+2025-04-14,Elevated Risk
+2025-04-15,Elevated Risk
+2025-04-16,Elevated Risk
+2025-04-17,Elevated Risk
+2025-04-21,Elevated Risk
+2025-04-22,Elevated Risk
+2025-04-23,Elevated Risk
+2025-04-24,Elevated Risk
+2025-04-25,Elevated Risk
+2025-04-28,Elevated Risk
+2025-04-29,Elevated Risk
+2025-04-30,Elevated Risk
+2025-05-01,Elevated Risk
+2025-05-02,Elevated Risk
+2025-05-05,Elevated Risk
+2025-05-06,Elevated Risk
+2025-05-07,Elevated Risk
+2025-05-08,Elevated Risk
+2025-05-09,Elevated Risk
+2025-05-12,Elevated Risk
+2025-05-13,Elevated Risk
+2025-05-14,Elevated Risk
+2025-05-15,Elevated Risk
+2025-05-16,Elevated Risk
+2025-05-19,Elevated Risk
+2025-05-20,Elevated Risk
+2025-05-21,Elevated Risk
+2025-05-22,Elevated Risk
+2025-05-23,Elevated Risk
+2025-05-27,Elevated Risk
+2025-05-28,Elevated Risk
+2025-05-29,Elevated Risk
+2025-05-30,Elevated Risk
+2025-06-02,Elevated Risk
+2025-06-03,Elevated Risk
+2025-06-04,Elevated Risk
+2025-06-05,Elevated Risk
+2025-06-06,Elevated Risk
+2025-06-09,Elevated Risk
+2025-06-10,Elevated Risk
+2025-06-11,Elevated Risk
+2025-06-12,Elevated Risk
+2025-06-13,Elevated Risk
+2025-06-16,Elevated Risk
+2025-06-17,Elevated Risk
+2025-06-18,Elevated Risk
+2025-06-20,Elevated Risk
+2025-06-23,Elevated Risk
+2025-06-24,Elevated Risk
+2025-06-25,Elevated Risk
+2025-06-26,Elevated Risk
+2025-06-27,Elevated Risk
+2025-06-30,Elevated Risk
+2025-07-01,Elevated Risk
+2025-07-02,Attention
+2025-07-03,Attention
+2025-07-07,Attention
+2025-07-08,Attention
+2025-07-09,Attention
+2025-07-10,Attention
+2025-07-11,Attention
+2025-07-14,Attention
+2025-07-15,Attention
+2025-07-16,Attention
+2025-07-17,Attention
+2025-07-18,Attention
+2025-07-21,Stable
+2025-07-22,Stable
+2025-07-23,Stable
+2025-07-24,Stable
+2025-07-25,Stable
+2025-07-28,Stable
+2025-07-29,Stable
+2025-07-30,Stable
+2025-07-31,Attention
+2025-08-01,Attention
+2025-08-04,Attention
+2025-08-05,Attention
+2025-08-06,Attention
+2025-08-07,Attention
+2025-08-08,Stable
+2025-08-11,Stable
+2025-08-12,Stable
+2025-08-13,Stable
+2025-08-14,Stable
+2025-08-15,Stable
+2025-08-18,Stable
+2025-08-19,Attention
+2025-08-20,Attention
+2025-08-21,Attention
+2025-08-22,Attention
+2025-08-25,Attention
+2025-08-26,Attention
+2025-08-27,Attention
+2025-08-28,Attention
+2025-08-29,Attention
+2025-09-02,Attention
+2025-09-03,Attention
+2025-09-04,Stable
+2025-09-05,Stable
+2025-09-08,Stable
+2025-09-09,Stable
+2025-09-10,Stable
+2025-09-11,Stable
+2025-09-12,Stable
+2025-09-15,Stable
+2025-09-16,Stable
+2025-09-17,Stable
+2025-09-18,Stable
+2025-09-19,Stable
+2025-09-22,Stable
+2025-09-23,Attention
+2025-09-24,Attention
+2025-09-25,Attention
+2025-09-26,Attention
+2025-09-29,Stable
+2025-09-30,Stable
+2025-10-01,Stable
+2025-10-02,Stable
+2025-10-03,Stable
+2025-10-06,Stable
+2025-10-07,Stable
+2025-10-08,Stable
+2025-10-09,Stable
+2025-10-10,Attention
+2025-10-13,Attention
+2025-10-14,Attention
+2025-10-15,Attention
+2025-10-16,Attention
+2025-10-17,Attention
+2025-10-20,Attention
+2025-10-21,Attention
+2025-10-22,Attention
+2025-10-23,Attention
+2025-10-24,Attention
+2025-10-27,Attention
+2025-10-28,Attention
+2025-10-29,Attention
+2025-10-30,Attention
+2025-10-31,Attention
+2025-11-03,Attention
+2025-11-04,Attention
+2025-11-05,Attention
+2025-11-06,Attention
+2025-11-07,Attention
+2025-11-10,Attention
+2025-11-11,Attention
+2025-11-12,Stable
+2025-11-13,Attention
+2025-11-14,Attention
+2025-11-17,Attention
+2025-11-18,Attention
+2025-11-19,Attention
+2025-11-20,Attention
+2025-11-21,Attention
+2025-11-24,Attention
+2025-11-25,Attention
+2025-11-26,Attention
+2025-11-28,Attention
+2025-12-01,Attention
+2025-12-02,Attention
+2025-12-03,Attention
+2025-12-04,Attention
+2025-12-05,Attention
+2025-12-08,Attention
+2025-12-09,Attention
+2025-12-10,Attention
+2025-12-11,Attention
+2025-12-12,Attention

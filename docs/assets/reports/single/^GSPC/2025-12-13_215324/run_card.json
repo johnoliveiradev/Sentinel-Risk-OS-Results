@@ -1,0 +1,98 @@
+{
+  "run_id": "2025-12-13_215324",
+  "asset_symbol": "^GSPC",
+  "start_date": "2023-06-06",
+  "end_date": "2025-12-12",
+  "n_days": 634,
+  "regime_counts": {
+    "Attention": 336,
+    "Stable": 171,
+    "Elevated Risk": 127
+  },
+  "regime_percentages": {
+    "Attention": 53.0,
+    "Stable": 26.97,
+    "Elevated Risk": 20.03
+  },
+  "windows_count_total": 38,
+  "windows_count_by_regime": {
+    "Pre-Stress": 30,
+    "Core Stress": 7,
+    "Extreme": 1
+  },
+  "top_5_windows_by_score_max": [
+    {
+      "start": "2025-04-03 00:00:00",
+      "end": "2025-06-10 00:00:00",
+      "peak": "2025-04-09 00:00:00",
+      "score": 7.043792468123459,
+      "regime": "Extreme"
+    },
+    {
+      "start": "2025-03-06 00:00:00",
+      "end": "2025-04-03 00:00:00",
+      "peak": "2025-04-03 00:00:00",
+      "score": 6.654434796331548,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2024-08-02 00:00:00",
+      "end": "2024-10-01 00:00:00",
+      "peak": "2024-08-08 00:00:00",
+      "score": 6.072818485623598,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2025-06-10 00:00:00",
+      "end": "2025-07-02 00:00:00",
+      "peak": "2025-06-17 00:00:00",
+      "score": 5.995199622212249,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2023-11-14 00:00:00",
+      "end": "2023-11-16 00:00:00",
+      "peak": "2023-11-14 00:00:00",
+      "score": 3.871415861146142,
+      "regime": "Core Stress"
+    }
+  ],
+  "duration_days_summary": {
+    "Core Stress": {
+      "min": 1.0,
+      "median": 3.0,
+      "max": 60.0
+    },
+    "Extreme": {
+      "min": 68.0,
+      "median": 68.0,
+      "max": 68.0
+    },
+    "Pre-Stress": {
+      "min": 1.0,
+      "median": 7.5,
+      "max": 79.0
+    }
+  },
+  "score_max_summary": {
+    "Core Stress": {
+      "min": 3.115910838979413,
+      "median": 3.871415861146142,
+      "max": 6.654434796331548
+    },
+    "Extreme": {
+      "min": 7.043792468123459,
+      "median": 7.043792468123459,
+      "max": 7.043792468123459
+    },
+    "Pre-Stress": {
+      "min": 1.0359571248468944,
+      "median": 1.540006793966607,
+      "max": 3.871415861146142
+    }
+  },
+  "metadata": {
+    "start_date": null,
+    "end_date": null
+  }
+}

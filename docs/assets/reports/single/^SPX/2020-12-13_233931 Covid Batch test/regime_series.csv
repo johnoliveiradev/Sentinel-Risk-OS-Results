@@ -1,0 +1,292 @@
+Date,Regime
+2019-10-18,Stable
+2019-10-21,Stable
+2019-10-22,Stable
+2019-10-23,Stable
+2019-10-24,Stable
+2019-10-25,Stable
+2019-10-28,Stable
+2019-10-29,Stable
+2019-10-30,Stable
+2019-10-31,Stable
+2019-11-01,Stable
+2019-11-04,Stable
+2019-11-05,Stable
+2019-11-06,Stable
+2019-11-07,Stable
+2019-11-08,Stable
+2019-11-11,Stable
+2019-11-12,Stable
+2019-11-13,Stable
+2019-11-14,Stable
+2019-11-15,Stable
+2019-11-18,Stable
+2019-11-19,Stable
+2019-11-20,Stable
+2019-11-21,Stable
+2019-11-22,Stable
+2019-11-25,Stable
+2019-11-26,Stable
+2019-11-27,Stable
+2019-11-29,Stable
+2019-12-02,Stable
+2019-12-03,Stable
+2019-12-04,Stable
+2019-12-05,Stable
+2019-12-06,Stable
+2019-12-09,Stable
+2019-12-10,Stable
+2019-12-11,Stable
+2019-12-12,Stable
+2019-12-13,Stable
+2019-12-16,Stable
+2019-12-17,Stable
+2019-12-18,Stable
+2019-12-19,Stable
+2019-12-20,Stable
+2019-12-23,Stable
+2019-12-24,Stable
+2019-12-26,Stable
+2019-12-27,Stable
+2019-12-30,Stable
+2019-12-31,Stable
+2020-01-02,Stable
+2020-01-03,Stable
+2020-01-06,Stable
+2020-01-07,Stable
+2020-01-08,Stable
+2020-01-09,Stable
+2020-01-10,Stable
+2020-01-13,Stable
+2020-01-14,Stable
+2020-01-15,Stable
+2020-01-16,Stable
+2020-01-17,Stable
+2020-01-21,Stable
+2020-01-22,Stable
+2020-01-23,Stable
+2020-01-24,Stable
+2020-01-27,Attention
+2020-01-28,Stable
+2020-01-29,Stable
+2020-01-30,Stable
+2020-01-31,Attention
+2020-02-03,Attention
+2020-02-04,Attention
+2020-02-05,Stable
+2020-02-06,Stable
+2020-02-07,Stable
+2020-02-10,Stable
+2020-02-11,Stable
+2020-02-12,Stable
+2020-02-13,Stable
+2020-02-14,Stable
+2020-02-18,Stable
+2020-02-19,Stable
+2020-02-20,Stable
+2020-02-21,Stable
+2020-02-24,Attention
+2020-02-25,Elevated Risk
+2020-02-26,Elevated Risk
+2020-02-27,Elevated Risk
+2020-02-28,Elevated Risk
+2020-03-02,Elevated Risk
+2020-03-03,Elevated Risk
+2020-03-04,Elevated Risk
+2020-03-05,Elevated Risk
+2020-03-06,Elevated Risk
+2020-03-09,Elevated Risk
+2020-03-10,Elevated Risk
+2020-03-11,Elevated Risk
+2020-03-12,Elevated Risk
+2020-03-13,Elevated Risk
+2020-03-16,Elevated Risk
+2020-03-17,Elevated Risk
+2020-03-18,Elevated Risk
+2020-03-19,Elevated Risk
+2020-03-20,Elevated Risk
+2020-03-23,Elevated Risk
+2020-03-24,Elevated Risk
+2020-03-25,Elevated Risk
+2020-03-26,Elevated Risk
+2020-03-27,Elevated Risk
+2020-03-30,Elevated Risk
+2020-03-31,Elevated Risk
+2020-04-01,Elevated Risk
+2020-04-02,Elevated Risk
+2020-04-03,Elevated Risk
+2020-04-06,Elevated Risk
+2020-04-07,Elevated Risk
+2020-04-08,Elevated Risk
+2020-04-09,Elevated Risk
+2020-04-13,Elevated Risk
+2020-04-14,Elevated Risk
+2020-04-15,Elevated Risk
+2020-04-16,Elevated Risk
+2020-04-17,Elevated Risk
+2020-04-20,Elevated Risk
+2020-04-21,Elevated Risk
+2020-04-22,Elevated Risk
+2020-04-23,Elevated Risk
+2020-04-24,Elevated Risk
+2020-04-27,Elevated Risk
+2020-04-28,Elevated Risk
+2020-04-29,Elevated Risk
+2020-04-30,Elevated Risk
+2020-05-01,Elevated Risk
+2020-05-04,Elevated Risk
+2020-05-05,Elevated Risk
+2020-05-06,Elevated Risk
+2020-05-07,Elevated Risk
+2020-05-08,Elevated Risk
+2020-05-11,Elevated Risk
+2020-05-12,Elevated Risk
+2020-05-13,Elevated Risk
+2020-05-14,Elevated Risk
+2020-05-15,Elevated Risk
+2020-05-18,Elevated Risk
+2020-05-19,Elevated Risk
+2020-05-20,Elevated Risk
+2020-05-21,Elevated Risk
+2020-05-22,Elevated Risk
+2020-05-26,Elevated Risk
+2020-05-27,Elevated Risk
+2020-05-28,Elevated Risk
+2020-05-29,Elevated Risk
+2020-06-01,Elevated Risk
+2020-06-02,Elevated Risk
+2020-06-03,Elevated Risk
+2020-06-04,Attention
+2020-06-05,Attention
+2020-06-08,Attention
+2020-06-09,Attention
+2020-06-10,Attention
+2020-06-11,Elevated Risk
+2020-06-12,Elevated Risk
+2020-06-15,Elevated Risk
+2020-06-16,Attention
+2020-06-17,Attention
+2020-06-18,Attention
+2020-06-19,Attention
+2020-06-22,Attention
+2020-06-23,Stable
+2020-06-24,Attention
+2020-06-25,Stable
+2020-06-26,Attention
+2020-06-29,Attention
+2020-06-30,Stable
+2020-07-01,Stable
+2020-07-02,Stable
+2020-07-06,Stable
+2020-07-07,Attention
+2020-07-08,Stable
+2020-07-09,Stable
+2020-07-10,Stable
+2020-07-13,Stable
+2020-07-14,Stable
+2020-07-15,Stable
+2020-07-16,Stable
+2020-07-17,Stable
+2020-07-20,Stable
+2020-07-21,Stable
+2020-07-22,Stable
+2020-07-23,Stable
+2020-07-24,Stable
+2020-07-27,Stable
+2020-07-28,Stable
+2020-07-29,Stable
+2020-07-30,Stable
+2020-07-31,Stable
+2020-08-03,Stable
+2020-08-04,Stable
+2020-08-05,Stable
+2020-08-06,Stable
+2020-08-07,Stable
+2020-08-10,Stable
+2020-08-11,Stable
+2020-08-12,Stable
+2020-08-13,Stable
+2020-08-14,Stable
+2020-08-17,Stable
+2020-08-18,Stable
+2020-08-19,Stable
+2020-08-20,Stable
+2020-08-21,Stable
+2020-08-24,Stable
+2020-08-25,Stable
+2020-08-26,Stable
+2020-08-27,Stable
+2020-08-28,Stable
+2020-08-31,Stable
+2020-09-01,Stable
+2020-09-02,Stable
+2020-09-03,Attention
+2020-09-04,Attention
+2020-09-08,Elevated Risk
+2020-09-09,Attention
+2020-09-10,Elevated Risk
+2020-09-11,Elevated Risk
+2020-09-14,Attention
+2020-09-15,Attention
+2020-09-16,Attention
+2020-09-17,Attention
+2020-09-18,Attention
+2020-09-21,Attention
+2020-09-22,Attention
+2020-09-23,Elevated Risk
+2020-09-24,Elevated Risk
+2020-09-25,Attention
+2020-09-28,Attention
+2020-09-29,Attention
+2020-09-30,Stable
+2020-10-01,Attention
+2020-10-02,Attention
+2020-10-05,Stable
+2020-10-06,Stable
+2020-10-07,Stable
+2020-10-08,Stable
+2020-10-09,Stable
+2020-10-12,Stable
+2020-10-13,Stable
+2020-10-14,Stable
+2020-10-15,Stable
+2020-10-16,Stable
+2020-10-19,Attention
+2020-10-20,Attention
+2020-10-21,Attention
+2020-10-22,Stable
+2020-10-23,Stable
+2020-10-26,Attention
+2020-10-27,Attention
+2020-10-28,Elevated Risk
+2020-10-29,Attention
+2020-10-30,Elevated Risk
+2020-11-02,Attention
+2020-11-03,Attention
+2020-11-04,Stable
+2020-11-05,Stable
+2020-11-06,Stable
+2020-11-09,Stable
+2020-11-10,Stable
+2020-11-11,Stable
+2020-11-12,Stable
+2020-11-13,Stable
+2020-11-16,Stable
+2020-11-17,Stable
+2020-11-18,Stable
+2020-11-19,Stable
+2020-11-20,Stable
+2020-11-23,Stable
+2020-11-24,Stable
+2020-11-25,Stable
+2020-11-27,Stable
+2020-11-30,Stable
+2020-12-01,Stable
+2020-12-02,Stable
+2020-12-03,Stable
+2020-12-04,Stable
+2020-12-07,Stable
+2020-12-08,Stable
+2020-12-09,Stable
+2020-12-10,Stable
+2020-12-11,Stable
