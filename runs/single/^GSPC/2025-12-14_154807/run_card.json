@@ -1,0 +1,91 @@
+{
+  "run_id": "2025-12-14_154807",
+  "asset_symbol": "^GSPC",
+  "start_date": "2025-06-10",
+  "end_date": "2025-12-12",
+  "n_days": 130,
+  "regime_counts": {
+    "Stable": 77,
+    "Attention": 30,
+    "Elevated Risk": 23
+  },
+  "regime_percentages": {
+    "Stable": 59.23,
+    "Attention": 23.08,
+    "Elevated Risk": 17.69
+  },
+  "windows_count_total": 12,
+  "windows_count_by_regime": {
+    "Pre-Stress": 8,
+    "Core Stress": 4
+  },
+  "top_5_windows_by_score_max": [
+    {
+      "start": "2025-11-13 00:00:00",
+      "end": "2025-12-05 00:00:00",
+      "peak": "2025-11-20 00:00:00",
+      "score": 3.2488120737810764,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2025-11-04 00:00:00",
+      "end": "2025-11-07 00:00:00",
+      "peak": "2025-11-06 00:00:00",
+      "score": 2.701786622565425,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2025-10-20 00:00:00",
+      "end": "2025-11-04 00:00:00",
+      "peak": "2025-11-04 00:00:00",
+      "score": 2.4622458065316275,
+      "regime": "Pre-Stress"
+    },
+    {
+      "start": "2025-10-15 00:00:00",
+      "end": "2025-10-16 00:00:00",
+      "peak": "2025-10-16 00:00:00",
+      "score": 2.341475757355213,
+      "regime": "Pre-Stress"
+    },
+    {
+      "start": "2025-10-16 00:00:00",
+      "end": "2025-10-20 00:00:00",
+      "peak": "2025-10-16 00:00:00",
+      "score": 2.341475757355213,
+      "regime": "Core Stress"
+    }
+  ],
+  "duration_days_summary": {
+    "Core Stress": {
+      "min": 3.0,
+      "median": 4.5,
+      "max": 22.0
+    },
+    "Pre-Stress": {
+      "min": 1.0,
+      "median": 4.5,
+      "max": 15.0
+    }
+  },
+  "score_max_summary": {
+    "Core Stress": {
+      "min": 2.3333067158869314,
+      "median": 2.5216311899603188,
+      "max": 3.2488120737810764
+    },
+    "Pre-Stress": {
+      "min": 1.0064972507128331,
+      "median": 1.8151197163163855,
+      "max": 2.4622458065316275
+    }
+  },
+  "metadata": {
+    "start_date": "2024-12-14",
+    "end_date": "2025-12-14",
+    "n_days": 249,
+    "code_version": null,
+    "environment": "3.13.5",
+    "machine": "Windows-10-10.0.19045-SP0"
+  }
+}
