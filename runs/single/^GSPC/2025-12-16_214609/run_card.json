@@ -1,0 +1,102 @@
+{
+  "run_id": "2025-12-16_214609",
+  "asset_symbol": "^GSPC",
+  "start_date": "2023-06-09",
+  "end_date": "2025-12-15",
+  "n_days": 632,
+  "regime_counts": {
+    "Attention": 289,
+    "Elevated Risk": 174,
+    "Stable": 169
+  },
+  "regime_percentages": {
+    "Attention": 45.73,
+    "Elevated Risk": 27.53,
+    "Stable": 26.74
+  },
+  "windows_count_total": 46,
+  "windows_count_by_regime": {
+    "Pre-Stress": 33,
+    "Core Stress": 11,
+    "Extreme": 2
+  },
+  "top_5_windows_by_score_max": [
+    {
+      "start": "2025-03-10 00:00:00",
+      "end": "2025-06-30 00:00:00",
+      "peak": "2025-04-09 00:00:00",
+      "score": 7.043923367393747,
+      "regime": "Extreme"
+    },
+    {
+      "start": "2024-08-05 00:00:00",
+      "end": "2024-08-29 00:00:00",
+      "peak": "2024-08-08 00:00:00",
+      "score": 6.071559174322076,
+      "regime": "Extreme"
+    },
+    {
+      "start": "2024-08-01 00:00:00",
+      "end": "2024-08-05 00:00:00",
+      "peak": "2024-08-05 00:00:00",
+      "score": 5.605039721175532,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2025-03-03 00:00:00",
+      "end": "2025-03-10 00:00:00",
+      "peak": "2025-03-10 00:00:00",
+      "score": 5.27984527926999,
+      "regime": "Core Stress"
+    },
+    {
+      "start": "2024-08-29 00:00:00",
+      "end": "2024-10-09 00:00:00",
+      "peak": "2024-08-29 00:00:00",
+      "score": 5.098942421753115,
+      "regime": "Core Stress"
+    }
+  ],
+  "duration_days_summary": {
+    "Core Stress": {
+      "min": 1.0,
+      "median": 6.0,
+      "max": 41.0
+    },
+    "Extreme": {
+      "min": 24.0,
+      "median": 68.0,
+      "max": 112.0
+    },
+    "Pre-Stress": {
+      "min": 1.0,
+      "median": 8.0,
+      "max": 56.0
+    }
+  },
+  "score_max_summary": {
+    "Core Stress": {
+      "min": 2.568734270198121,
+      "median": 3.022692963234155,
+      "max": 5.605039721175532
+    },
+    "Extreme": {
+      "min": 6.071559174322076,
+      "median": 6.557741270857911,
+      "max": 7.043923367393747
+    },
+    "Pre-Stress": {
+      "min": 1.0316465865401208,
+      "median": 1.7556357659816673,
+      "max": 2.763903298694362
+    }
+  },
+  "metadata": {
+    "start_date": "2022-12-16",
+    "end_date": "2025-12-16",
+    "n_days": 751,
+    "code_version": null,
+    "environment": "3.13.5",
+    "machine": "Windows-10-10.0.19045-SP0"
+  }
+}
